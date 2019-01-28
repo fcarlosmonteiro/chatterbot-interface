@@ -1,2 +1,2 @@
 # chatterbot-interface
-Training interface chatbot
+Interface to train a chatbot developed in python3 and tkinter
